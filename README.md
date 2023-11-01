@@ -1,4 +1,4 @@
-# provider_class
+# Contador 2.0 with Bloc
 
 A new Flutter project.
 
